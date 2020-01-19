@@ -1,8 +1,8 @@
 ## About
 **<font color="DarkOrchid">N予備校</font>**でプログラミングを習ってます。
 ~~(起きたら授業始まってた)~~  
-
-![猫](http://drive.google.com/uc?export=view&id=1emztEeFuim3NnP9wrQxw4SenHMM6L7Vx)
+![猫](http://drive.google.com/uc?export=view&id=1emztEeFuim3NnP9wrQxw4SenHMM6L7Vx)  
+<span style="font-size:60%>寝起きで元気</span>
 ## Profile
 - あさづけ
 - 得意領域(しかできない)  
