@@ -7,12 +7,16 @@ N予備校でプログラミングを習ってます。
 - 得意領域 (しかできない) Javascript Node.js
 
 # 学習で作ったもの
-- nodejsで選挙のドント方式計算  
+- ドント方式計算  
 https://asazuke11.github.io/D-Hondt/  
-code  
-https://github.com/Asazuke11/D-Hondt  
+選挙の比例票の議席割当をプログラムで計算。
 
-- JSのランダムを使ったキャラメイキング  
+- 異世界キャラメイキング  
 https://asazuke11.github.io/character_card/  
-code  
-https://github.com/Asazuke11/character_card
+Webプログラミング１章の名前判断を使ったキャラクターメイキングアプリ。
+
+- 天才フィズバズちゃん  
+https://asazuke11.github.io/Fizzbuzz/  
+Webプログラミング１章のFIZZBUZZ。  
+ランダムで数字を生成し、fizz・buzzの条件に合致したら  
+即座に指摘。この子にスピードで勝てたら天才。
