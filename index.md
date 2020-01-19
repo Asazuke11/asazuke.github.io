@@ -1,7 +1,7 @@
 ## About
-![N](http://drive.google.com/uc?export=view&id=1emztEeFuim3NnP9wrQxw4SenHMM6L7Vx)  
 **<font color="DarkOrchid">N予備校</font>**でプログラミングを習ってます。
 ~~(起きたら授業始まってた)~~  
+![N](http://drive.google.com/uc?export=view&id=1emztEeFuim3NnP9wrQxw4SenHMM6L7Vx)  
 ![猫](fde20fd0-private.png)  
 ## Profile
 - あさづけ
