@@ -2,10 +2,9 @@
 **<font color="DarkOrchid">N予備校</font>**でプログラミングを習ってます。
 ~~(起きたら授業始まってた)~~  
 ![猫](http://drive.google.com/uc?export=view&id=1emztEeFuim3NnP9wrQxw4SenHMM6L7Vx)  
-<span style="font-size:60%">寝起きで元気</span>
 ## Profile
 - あさづけ
-- 得意領域(しかできない)  
+- 得意領域  
 Javascript Node.js
 
 ## 学習で作ったもの
@@ -22,3 +21,12 @@ Webプログラミング１章のFIZZBUZZ。
 
 - [あなたのいいところ判断](https://asazuke11.github.io/assessment/)  
 Webプログラミング１章の名前判断の成果物です。
+
+- [あなたのいいところ判断](https://asazuke11.github.io/assessment/)  
+Webプログラミング１章の名前判断の成果物です。
+
+- [野生の匿名掲示板](https://desolate-fjord-06110.herokuapp.com/posts)  
+３章匿名掲示板の学習成果物です。使用DB-postgres
+
+- [野生の匿名掲示板](https://desolate-fjord-06110.herokuapp.com/posts)  
+３章のデータベースを利用したアンケートページです。使用DB-postgres
