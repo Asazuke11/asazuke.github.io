@@ -1,6 +1,6 @@
 # About
 N予備校でプログラミングを習ってます。
-~~(起きたら授業始まってた)
+~~(起きたら授業始まってた)~~
 
 ![猫](http://drive.google.com/uc?export=view&id=1emztEeFuim3NnP9wrQxw4SenHMM6L7Vx)
 ## Profile
