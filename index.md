@@ -10,7 +10,7 @@
 
 <a class="twitter-timeline" data-width="300" data-height="300" href="https://twitter.com/Asazuke_11ch?ref_src=twsrc%5Etfw">Tweets by Asazuke_11ch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#### N予備校の学習で作ったもの
+#### N予備校のWebプログラミング授業で作ったものなど。
 - [ドント方式計算](https://asazuke11.github.io/D-Hondt/)  
 選挙の比例票の議席割当をプログラムで計算。
 
