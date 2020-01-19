@@ -8,7 +8,7 @@
 - 学んでいる言語  
 **Javascript Node.js**
 
-<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/Asazuke_11ch?ref_src=twsrc%5Etfw">Tweets by Asazuke_11ch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="300" data-height="300" href="https://twitter.com/Asazuke_11ch?ref_src=twsrc%5Etfw">Tweets by Asazuke_11ch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### 学習で作ったもの
 - [ドント方式計算](https://asazuke11.github.io/D-Hondt/)  
