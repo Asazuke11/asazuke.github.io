@@ -9,7 +9,7 @@
 Javascript Node.js
 
 ## 学習で作ったもの
-- ドント方式計算  
+- <font color="OrangeRed">ドント方式計算</font>  
 (https://asazuke11.github.io/D-Hondt/)  
 選挙の比例票の議席割当をプログラムで計算。
 
@@ -24,5 +24,5 @@ Webプログラミング１章のFIZZBUZZ。
 即座に指摘。この子にスピードで勝てたら天才。
 
 - あなたのいいところ判断   
-(https://asazuke11.github.io/assessment/)
+(https://asazuke11.github.io/assessment/)  
 Webプログラミング１章の名前判断の成果物です。
