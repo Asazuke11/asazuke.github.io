@@ -5,7 +5,8 @@ N予備校でプログラミングを習ってます。
 ![猫](http://drive.google.com/uc?export=view&id=1emztEeFuim3NnP9wrQxw4SenHMM6L7Vx)
 ## Profile
 - あさづけ
-- 得意領域 (しかできない) Javascript Node.js
+- 得意領域[^1]しかできないもの  
+Javascript Node.js
 
 # 学習で作ったもの
 - ドント方式計算  
