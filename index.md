@@ -25,7 +25,7 @@ Webプログラミング１章のいいところ判断をちょっと装飾し�
 - [野生の匿名掲示板](https://desolate-fjord-06110.herokuapp.com/posts)  
 ３章匿名掲示板です。使用DB-postgres
 
-- [野生の匿名掲示板](https://desolate-fjord-06110.herokuapp.com/posts)  
+- [N予備校アンケート](https://desolate-fjord-06110.herokuapp.com/posts)  
 ３章のデータベースを利用したアンケートページです。使用DB-postgres
 
 - [適当につぶやくあかねちゃん](https://asazuke11.github.io/N_summer_2019/)  
