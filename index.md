@@ -1,5 +1,5 @@
 # About
-N予備校でプログラミングを趣味で習ってます。
+N予備校でプログラミングを習ってます。
 
 ![猫](http://drive.google.com/uc?export=view&id=1emztEeFuim3NnP9wrQxw4SenHMM6L7Vx)
 ## Profile
@@ -8,6 +8,11 @@ N予備校でプログラミングを趣味で習ってます。
 
 # 学習で作ったもの
 - nodejsで選挙のドント方式計算
-https://asazuke11.github.io/D-Hondt/
-code
-https://github.com/Asazuke11/D-Hondt
+https://asazuke11.github.io/D-Hondt/  
+code  
+https://github.com/Asazuke11/D-Hondt  
+
+- JSのランダムを使ったキャラメイキング
+https://asazuke11.github.io/character_card/  
+code  
+https://github.com/Asazuke11/character_card
