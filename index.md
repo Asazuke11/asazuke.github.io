@@ -20,13 +20,17 @@ Webプログラミング１章のFIZZBUZZ。
 即座に指摘。この子にスピードで勝てたら天才。
 
 - [あなたのいいところ判断](https://asazuke11.github.io/assessment/)  
-Webプログラミング１章の名前判断の成果物です。
+Webプログラミング１章のいいところ判断をちょっと装飾したもの。
 
 - [あなたのいいところ判断](https://asazuke11.github.io/assessment/)  
 Webプログラミング１章の名前判断の成果物です。
 
 - [野生の匿名掲示板](https://desolate-fjord-06110.herokuapp.com/posts)  
-３章匿名掲示板の学習成果物です。使用DB-postgres
+３章匿名掲示板です。使用DB-postgres
 
 - [野生の匿名掲示板](https://desolate-fjord-06110.herokuapp.com/posts)  
 ３章のデータベースを利用したアンケートページです。使用DB-postgres
+
+- [適当につぶやくあかねちゃん](https://asazuke11.github.io/N_summer_2019/)  
+夏のコンテストにだした、ローカルストレージに入力したコメントをランダムで  
+つぶやいてもらうアプリです。
