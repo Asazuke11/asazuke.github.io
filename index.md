@@ -5,10 +5,10 @@
 ![猫](fde20fd0-private.png)  
 ## Profile
 **あさづけ**
-- 学んでいる言語 
+- 学んでいる言語  
 **Javascript Node.js**
 
-## 学習で作ったもの
+#### 学習で作ったもの
 - [ドント方式計算](https://asazuke11.github.io/D-Hondt/)  
 選挙の比例票の議席割当をプログラムで計算。
 
