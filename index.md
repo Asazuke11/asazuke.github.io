@@ -5,8 +5,8 @@
 ![猫](fde20fd0-private.png)  
 ## Profile
 - あさづけ
-- 得意領域  
-Javascript Node.js
+- 学んでます  
+**Javascript Node.js**
 
 ## 学習で作ったもの
 - [ドント方式計算](https://asazuke11.github.io/D-Hondt/)  
