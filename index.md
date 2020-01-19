@@ -1,11 +1,11 @@
 # About
-N予備校でプログラミングを習ってます。
-~~(起きたら授業始まってた)~~
+**N予備校**でプログラミングを習ってます。
+~~(起きたら授業始まってた)~~  
 
 ![猫](http://drive.google.com/uc?export=view&id=1emztEeFuim3NnP9wrQxw4SenHMM6L7Vx)
 ## Profile
 - あさづけ
-- 得意領域[^1]しかできないもの  
+- 得意領域(しかできない)  
 Javascript Node.js
 
 # 学習で作ったもの
