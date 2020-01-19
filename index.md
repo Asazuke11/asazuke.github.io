@@ -7,12 +7,12 @@ N予備校でプログラミングを習ってます。
 - 得意領域 (しかできない) Javascript Node.js
 
 # 学習で作ったもの
-- nodejsで選挙のドント方式計算
+- nodejsで選挙のドント方式計算  
 https://asazuke11.github.io/D-Hondt/  
 code  
 https://github.com/Asazuke11/D-Hondt  
 
-- JSのランダムを使ったキャラメイキング
+- JSのランダムを使ったキャラメイキング  
 https://asazuke11.github.io/character_card/  
 code  
 https://github.com/Asazuke11/character_card
