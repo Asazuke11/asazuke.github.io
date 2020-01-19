@@ -4,8 +4,8 @@
 ![N](http://drive.google.com/uc?export=view&id=1emztEeFuim3NnP9wrQxw4SenHMM6L7Vx)  
 ![猫](fde20fd0-private.png)  
 ## Profile
-- あさづけ
-- 学んでます  
+- **あさづけ**
+- 学んでいる言語 
 **Javascript Node.js**
 
 ## 学習で作ったもの
