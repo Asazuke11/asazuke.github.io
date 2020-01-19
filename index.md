@@ -22,9 +22,6 @@ Webプログラミング１章のFIZZBUZZ。
 - [あなたのいいところ判断](https://asazuke11.github.io/assessment/)  
 Webプログラミング１章のいいところ判断をちょっと装飾したもの。
 
-- [あなたのいいところ判断](https://asazuke11.github.io/assessment/)  
-Webプログラミング１章の名前判断の成果物です。
-
 - [野生の匿名掲示板](https://desolate-fjord-06110.herokuapp.com/posts)  
 ３章匿名掲示板です。使用DB-postgres
 
